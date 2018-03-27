@@ -1,7 +1,7 @@
 """
-You are hiring for Google.
-    - Partic
+Template code for your hiring algorithm
 
+The structure of each application:
 0: Intro to CS
 1: Data Structures
 2: Software Engineering
@@ -23,17 +23,17 @@ exampleList = [[93, 89, 63, 88, 60, 73, 80], [100, 63, 57, 96, 58, 71, 78], [81,
 
 
 def getBestApplicants(appList):
-	""" Given applicant data, return the most qualified applications 
+	""" Given applicant data, return the most qualified applications
 
-		input: 
+		input:
 		- appList: a 2D list containing lists of application data
 
-		output: 
+		output:
 		- a 2D list of the best applications
 	"""
 	finalists = list()
 
-	for app in appList: 
+	for app in appList:
 		finalists += [app]
 
 
