@@ -1,0 +1,24 @@
+
+Puts in data on a 4.0 scale: 
+[4, 3.9, 4, 4, 3.95, 4, 3.9]
+
+Makes an error on the first entry:
+[681, 68, 73, 70, 81, 91, 59]
+
+Puts in letter grades: 
+['A', 'A', 'A', 'A', 'A', 'A', 'A']
+
+Awesome trajectory: 
+[65, 75, 85, 95, 100, 100, 80]
+
+Terrible trajectory: 
+[100, 100, 95, 85, 75, 65, 80]
+
+Skipped 203 and thought putting -1 would make that obvious:
+[-1, 95, 99, 94, 96, 98, 95]
+
+Forgot a 0 in the overall GPA: 
+[100, 100, 100, 100, 100, 100, 10]
+
+Flames out one semester (sick): 
+[100, 100, 65, 100, 100, 100, 80]
